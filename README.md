@@ -1,4 +1,3 @@
-
 # Simple Multi-Label Weather Classifier
 
 This is a small, original educational project that demonstrates a multi-label weather classifier using a **Logistic Regression** model (One-vs-Rest). The dataset is synthetic and generated in code — perfect for learning and safe to publish.
